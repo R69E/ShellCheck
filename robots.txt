@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shell-check.com/sitemap.xml
